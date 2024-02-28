@@ -1,7 +1,7 @@
 # Command Line Interpreter 
 ## Commands
-> echo
-### cd
+echo
+cd
 ### pwd
 ### ls
 ### ls -r
