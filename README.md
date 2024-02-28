@@ -1,6 +1,6 @@
 # Command Line Interpreter 
 ## Commands
-### echo
+> echo
 ### cd
 ### pwd
 ### ls
